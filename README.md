@@ -50,3 +50,27 @@ This project aims to analyze how internet usage for gathering information has ev
    ```bash
    pip install -r requirements.txt
  
+### How to use Ollama
+
+1. Install Ollama
+   ```bash
+   curl -fsSL https://ollama.com/install.sh | sh
+
+2. In a separate shell start Ollama:
+   ```bash
+   ollama serve
+
+3. In another shell load the model you want to use:
+   ```bash   
+   ollama pull <model_name> (e.g. ollama pull llama3.2)
+
+4. Install ollama for python
+   ```bash
+   pip install ollama
+
+### Useful Links
+
+- [Ollama](https://ollama.com/)
+- [Pywikibot](https://doc.wikimedia.org/pywikibot/stable/introduction.html)
+- [LLM on your local machine](https://medium.com/@aman20aug/running-a-llm-on-your-local-machine-gpu-not-required-ac86a6735755)
+- [Ollama in GitHub Codespaces](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
