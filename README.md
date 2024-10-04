@@ -74,3 +74,4 @@ This project aims to analyze how internet usage for gathering information has ev
 - [Pywikibot](https://doc.wikimedia.org/pywikibot/stable/introduction.html)
 - [LLM on your local machine](https://medium.com/@aman20aug/running-a-llm-on-your-local-machine-gpu-not-required-ac86a6735755)
 - [Ollama in GitHub Codespaces](https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces)
+- [Pytrends](https://github.com/GeneralMills/pytrends?tab=readme-ov-file)
