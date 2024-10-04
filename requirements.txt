@@ -2,3 +2,4 @@ pandas
 ollama
 pywikibot
 wikitextparser
+pytrends
